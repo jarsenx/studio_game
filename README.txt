@@ -1,0 +1,1 @@
+StudioGame is a treasure hunt game.
